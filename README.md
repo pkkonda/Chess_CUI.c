@@ -11,5 +11,6 @@ WELCOME TO THE GAME OF CHESS
 
 4.GO THROUGH THE ENTRIRE CODE ON "CODE.txt" FILE
 5.RUN THE PROGRAM BY "chess.c" and "chess.exe" files
+                                                 
                                                     PASSWORD: 1996                 
 
